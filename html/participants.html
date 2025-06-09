@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>📘 Электронный Журнал: Инструкция по использованию.md</title>
+	<link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body id="preview">
+	<h1 class="code-line" data-line-start=0 data-line-end=1><a id="_Participants__participants_0"></a>🧑 Participants<button onclick="window.location.href='../index.html'" style="transform: scale(0.6); transform-origin: left center; margin-left: 4em;">
+    <img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/> На главную&nbsp;</button></h1>
+	<h2 class="code-line" data-line-start=2 data-line-end=3><a id="___2"></a>📌 Назначение листа</h2>
+	<p class="has-line-data" data-line-start="4" data-line-end="6">Рабочий лист для <strong>выбора/отбора участников</strong> мероприятий.<br>
+		Позволяет массово или выборочно отметить нужных учащихся, сформировать итоговый список, отсортировать его и экспортировать.</p>
+	<hr>
+	<h2 class="code-line" data-line-start=9 data-line-end=10><a id="___9"></a>🗂️ Структура листа</h2>
+	<p class="has-line-data" data-line-start="11" data-line-end="12">На листе расположены <strong>две таблицы</strong> и <strong>панель с кнопками управления</strong> между ними:</p>
+	<ul>
+		<li class="has-line-data" data-line-start="13" data-line-end="19">
+			<p class="has-line-data" data-line-start="13" data-line-end="14"><strong>Левая таблица</strong>:</p>
+			<ul>
+				<li class="has-line-data" data-line-start="14" data-line-end="15">Автоматически заполняется из данных листа <a href="#oppijate-nimekiri"><code>🧑 Õppijate Nimekiri</code></a>.</li>
+				<li class="has-line-data" data-line-start="15" data-line-end="16">Включает <strong>только активных учащихся</strong> (зарегистрированных и не отчисленных).</li>
+				<li class="has-line-data" data-line-start="16" data-line-end="17">Отображаются поля: <strong>Nimi</strong>, <strong>Perekonnanimi</strong>, <strong>Isikukood</strong>, <strong>Grupp</strong>.</li>
+				<li class="has-line-data" data-line-start="17" data-line-end="19">Имеет чекбоксы в <strong>столбце G</strong> для выбора участников.</li>
+			</ul>
+		</li>
+		<li class="has-line-data" data-line-start="19" data-line-end="23">
+			<p class="has-line-data" data-line-start="19" data-line-end="20"><strong>Правая таблица</strong> (итоговая):</p>
+			<ul>
+				<li class="has-line-data" data-line-start="20" data-line-end="21">Автоматически заполняется данными из левой таблицы, <strong>если установлен чекбокс</strong> в соответствующей строке.</li>
+				<li class="has-line-data" data-line-start="21" data-line-end="23">Обновляется динамически.</li>
+			</ul>
+		</li>
+	</ul>
+	<hr>
+	<h2 class="code-line" data-line-start=25 data-line-end=26><a id="___participantsbuttons_25"></a>🔘 Функциональные кнопки <!--{#participants-buttons}--></h2>
+	<table class="table table-striped table-bordered">
+		<thead>
+			<tr>
+				<th>Кнопка</th>
+				<th>Описание</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><strong>Vali kõik</strong></td>
+				<td>Выбор всех участников: массовая установка/снятие флажков (возможно вручную менять отдельные).</td>
+			</tr>
+			<tr>
+				<td><strong>Perekonnanimi</strong> <span style="font-size:12px;">(A &gt; Z)</span></td>
+				<td>Сортировка участников по фамилии в алфавитном порядке.</td>
+			</tr>
+			<tr>
+			<td><strong>Grupp</strong>&nbsp;<span style="font-size:12px;">(A&nbsp;&gt;&nbsp;Z)</span>&nbsp;<strong>+&nbsp;Perekonnanimi</strong>&nbsp;<span style="font-size:12px;">(A&nbsp;&gt;&nbsp;Z)</span></td>
+				<td>Сортировка по группе, затем по фамилии.</td>
+			</tr>
+			<tr>
+				<td><strong>Copy</strong></td>
+				<td>Открывает модальное окно со списком участников для копирования.</td>
+			</tr>
+			<tr>
+				<td><strong>TXT / PDF / Print</strong></td>
+				<td>Экспорт итогового списка участников:</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>• 📋 Отображение списка в модальном окне</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>• 📥 Скачать как <code>.txt</code></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>• 📄 Скачать как красиво оформленный <code>.pdf</code></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>• 🖨️ Отправить на печать</td>
+			</tr>
+			<tr>
+				<td></td>
+				<td>• ❌ Закрыть модальное окно</td>
+			</tr>
+		</tbody>
+	</table>
+	<hr>
+	<h2 class="code-line" data-line-start=42 data-line-end=43><a id="_____participantsexport_42"></a>📋 Автоматизация отбора и экспорта <!--{#participants-export}--></h2>
+	<ul>
+		<li class="has-line-data" data-line-start="44" data-line-end="45">Список участников формируется автоматически по <strong>установленным флажкам</strong> (чекбоксам).</li>
+		<li class="has-line-data" data-line-start="45" data-line-end="50">Модальное окно отображает <strong>итоговый список</strong>:
+			<ul>
+				<li class="has-line-data" data-line-start="46" data-line-end="47">для <strong>просмотра</strong>;</li>
+				<li class="has-line-data" data-line-start="47" data-line-end="48">для <strong>копирования в буфер</strong>;</li>
+				<li class="has-line-data" data-line-start="48" data-line-end="50">для <strong>скачивания</strong> или <strong>печати</strong> в удобном формате.</li>
+			</ul>
+		</li>
+	</ul>
+	<hr>
+	<h2 class="code-line" data-line-start=52 data-line-end=53><a id="__52"></a>🧠 Реализация</h2>
+	<ul>
+		<li class="has-line-data" data-line-start="54" data-line-end="55">Функциональность реализована с помощью <strong>Google Apps Script</strong>.</li>
+		<li class="has-line-data" data-line-start="55" data-line-end="60">Используются:
+			<ul>
+				<li class="has-line-data" data-line-start="56" data-line-end="57"><strong>обработка событий onEdit</strong>;</li>
+				<li class="has-line-data" data-line-start="57" data-line-end="58"><strong>генерация HTML-модальных окон</strong>;</li>
+				<li class="has-line-data" data-line-start="58" data-line-end="59"><strong>сортировка и копирование данных</strong>;</li>
+				<li class="has-line-data" data-line-start="59" data-line-end="60"><strong>синхронизация данных между таблицами</strong>.</li>
+			</ul>
+		</li>
+	</ul>
+	<hr>
+	<p>&nbsp;</p>
+
+</body>
+
+</html>
