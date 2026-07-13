@@ -66,7 +66,7 @@
 
 | Буква | Обозначение (eesti keeles) | Описание (русский язык) |
 |------|----------|------------------------|
-|<td style="background-color: #ffcccc;">&nbsp;&nbsp;&nbsp;  **k** </td>|<td> kohalolek klassis </td>|<td> присутствие на занятии </td>|
+|&nbsp;&nbsp;&nbsp;  **k** | kohalolek klassis | присутствие на занятии |
 |&nbsp;&nbsp;&nbsp;  **h** | mõjuv põhjus | отсутствие по уважительной причине |
 |&nbsp;&nbsp;&nbsp;  **p** | põhjuseta puudumine | отсутствие без уважительной причины |
 
