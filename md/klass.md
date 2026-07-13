@@ -80,17 +80,17 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #d9ead3;"><strong>k</strong>strong</td>
+			<td style="text-align: center; vertical-align: middle; background-color: #d9ead3;"><strong>k</strong></td>
 			<td>kohalolek klassis</td>
 			<td>присутствие на занятии</td>
 		</tr>
 		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #f4cccc;">**h**</td>
+			<td style="text-align: center; vertical-align: middle; background-color: #f4cccc;"><strong>h</strong></td>
 			<td>mõjuv põhjus</td>
 			<td>отсутствие по уважительной причине</td>
 		</tr>
 		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #fff2cc;">**p**</td>
+			<td style="text-align: center; vertical-align: middle; background-color: #fff2cc;"><strong>p</strong></td>
 			<td>põhjuseta puudumine</td>
 			<td>отсутствие без уважительной причины</td>
 		</tr>
