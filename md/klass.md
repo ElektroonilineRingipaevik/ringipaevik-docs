@@ -85,6 +85,33 @@
     </tr>
 </table>
 
+<table class="table table-striped table-bordered" cellpadding="0" cellspacing="3">
+	<thead>
+		<tr>
+			<th>Буква</th>
+			<th>Обозначение (eesti keeles)</th>
+			<th>Описание (русский язык)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="text-align: center; vertical-align: middle; background-color: rgb(217, 234, 211);">**k**</td>
+			<td>kohalolek klassis</td>
+			<td>присутствие на занятии</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; vertical-align: middle; background-color: rgb(244, 204, 204);">**h**</td>
+			<td>mõjuv põhjus</td>
+			<td>отсутствие по уважительной причине</td>
+		</tr>
+		<tr>
+			<td style="text-align: center; vertical-align: middle; background-color: rgb(255, 242, 204);">**p**</td>
+			<td>põhjuseta puudumine</td>
+			<td>отсутствие без уважительной причины</td>
+		</tr>
+	</tbody>
+</table>
+
 > ⚙️ После выбора одного из значений в ячейке отображается соответствующая буква, а ячейка автоматически окрашивается в установленный системой цвет.
 	
 - Разрешается использовать только указанные выше обозначения.
