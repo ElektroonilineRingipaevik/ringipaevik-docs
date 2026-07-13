@@ -80,7 +80,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #d9ead3;"><strong>&nbsp;&nbsp;&nbsp;k</strong></td>
+			<td text-align: center; vertical-align: middle; background-color: #d9ead3;><strong>&nbsp;&nbsp;&nbsp;k</strong></td>
 			<td>kohalolek klassis</td>
 			<td>присутствие на занятии</td>
 		</tr>
