@@ -70,21 +70,6 @@
 |&nbsp;&nbsp;&nbsp;  **h** | mõjuv põhjus | отсутствие по уважительной причине |
 |&nbsp;&nbsp;&nbsp;  **p** | põhjuseta puudumine | отсутствие без уважительной причины |
 
-<table>
-    <tr>
-        <th>Заголовок 1</th>
-        <th>Заголовок 2</th>
-    </tr>
-    <tr>
-        <td>Ячейка 1.1</td>
-        <td>Ячейка 2.1</td>
-    </tr>
-    <tr>
-        <td>Ячейка 1.2</td>
-        <td>Ячейка 2.2</td>
-    </tr>
-</table>
-
 <table class="table table-striped table-bordered" cellpadding="0" cellspacing="3">
 	<thead>
 		<tr>
