@@ -70,33 +70,6 @@
 |&nbsp;&nbsp;&nbsp;  **h** | mõjuv põhjus | отсутствие по уважительной причине |
 |&nbsp;&nbsp;&nbsp;  **p** | põhjuseta puudumine | отсутствие без уважительной причины |
 
-<table class="table table-striped table-bordered" cellpadding="0" cellspacing="3">
-	<thead>
-		<tr>
-			<th>Буква</th>
-			<th>Обозначение (eesti keeles)</th>
-			<th>Описание (русский язык)</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td color: #d9ead3;><strong>&nbsp;&nbsp;&nbsp;k</strong></td>
-			<td>kohalolek klassis</td>
-			<td>присутствие на занятии</td>
-		</tr>
-		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #f4cccc;"><strong>&nbsp;&nbsp;&nbsp;h</strong></td>
-			<td>mõjuv põhjus</td>
-			<td>отсутствие по уважительной причине</td>
-		</tr>
-		<tr>
-			<td style="text-align: center; vertical-align: middle; background-color: #fff2cc;"><strong>&nbsp;&nbsp;&nbsp;p</strong></td>
-			<td>põhjuseta puudumine</td>
-			<td>отсутствие без уважительной причины</td>
-		</tr>
-	</tbody>
-</table>
-
 > ⚙️ После выбора одного из значений в ячейке отображается соответствующая буква, а ячейка автоматически окрашивается в установленный системой цвет.
 	
 - Разрешается использовать только указанные выше обозначения.
