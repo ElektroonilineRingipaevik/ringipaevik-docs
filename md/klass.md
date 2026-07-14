@@ -1,4 +1,5 @@
-# ✅ Klass  {#klass}   {[(На главную)]}
+# ✅ Klass  {#klass}   {[(На главную)]}	<img width="136" height="128" alt="image" src="https://github.com/user-attachments/assets/7149eb00-33d6-4a21-908e-3d00f636166c" />
+
 
 ## 📌 Назначение листа
 
