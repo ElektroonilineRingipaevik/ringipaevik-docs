@@ -1,4 +1,4 @@
-# ✅ Klass  {#klass}   ###	{[(⬅️**на главную**)]}   [⬅️ на главную](../README.md)
+# ✅ Klass  {#klass}   ###	&nbsp;&nbsp;&nbsp;   [⬅️ на главную](../README.md)
 
 
 
