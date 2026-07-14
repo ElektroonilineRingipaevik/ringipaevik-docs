@@ -1,6 +1,6 @@
-# ✅🧑 Nõusolek Isikuandmete Töötlemiseks  {#nõusolek-isikuandmed}
+# ✅🧑 Nõusolek Isikuandmete Töötlemiseks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [⬅️ на главную](../README.md "переход на главную страницу")   
 
-## 📌 Назначение листа  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
+## 📌 Назначение листа
 
 В данном листе фиксируются разрешения от родителя (опекуна) на публикацию и обработку личных данных ребёнка, а также на их использование в определённых каналах распространения.
 
