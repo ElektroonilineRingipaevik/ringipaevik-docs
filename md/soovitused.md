@@ -1,4 +1,4 @@
-# 📌 Soovitused
+# 📌 Soovitused &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    [⬅️ на главную](../README.md "переход на главную страницу")   
 
 > **Назначение:**  
 Лист предназначен для обмена замечаниями, предложениями и информацией между заместителем директора и педагогами.  
