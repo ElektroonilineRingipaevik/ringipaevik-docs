@@ -1,4 +1,4 @@
-# 📘 Huviringi Tööplaan  {#huviringi-tooplaan}
+# 📘 Huviringi Tööplaan  {#huviringi-tooplaan}  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
 
 ## 📌 Назначение листа
 
