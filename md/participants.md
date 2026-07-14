@@ -1,4 +1,4 @@
-# 🧑 Participants  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
+# 🧑 Participants  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
 ## 📌 Назначение листа
 
 Рабочий лист для **выбора/отбора участников** мероприятий.  
