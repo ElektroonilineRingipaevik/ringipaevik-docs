@@ -1,4 +1,4 @@
-# ✅ Klass  {#klass}   &nbsp;&nbsp;&nbsp;&nbsp;   [<span style="background-color: #ffcc00; color: #000000;">⬅️ на главную</span>](../README.md)
+# ✅ Klass  {#klass}   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [⬅️ на главную](../README.md)
 
 
 
