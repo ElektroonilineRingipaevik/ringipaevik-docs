@@ -1,5 +1,5 @@
 # ✅ Klass  {#klass}   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md)   
-<button onclick="window.location.href='../index.html'" style="transform: scale(0.6); transform-origin: left center; margin-left: 4em;"><img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/> На главную&nbsp;</button>
+<img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/> На главную
 
 
 
