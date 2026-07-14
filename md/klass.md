@@ -1,5 +1,5 @@
-# ✅ Klass  {#klass}   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️<img vertical-align="middle" width="32" height="32" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/> на главную](../README.md)   
-<img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/> На главную
+# ✅ Klass  {#klass}   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️&nbsp; на главную](../README.md)   
+<img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/>
 
 
 
