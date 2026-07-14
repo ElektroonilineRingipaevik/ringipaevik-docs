@@ -1,4 +1,4 @@
-# 🛠️ Legend (list-script)  {#legend} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
+# 🛠️ Legend (list-script)  {#legend} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
 
 ## 📌 Назначение листа
 
