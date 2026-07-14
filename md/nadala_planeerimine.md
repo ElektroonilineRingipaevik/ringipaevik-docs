@@ -1,4 +1,4 @@
-# 📚 Nädala planeerimine  {#nadala-planeerimine}
+# 📚 Nädala planeerimine  {#nadala-planeerimine} &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
 
 ## 📌 Назначение листа
 
