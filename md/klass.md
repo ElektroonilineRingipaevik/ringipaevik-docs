@@ -1,4 +1,4 @@
-# ✅ Klass  {#klass}   ###	{[(⬅️**на главную**)]}   ![⬅️](https://github.com/ElektroonilineRingipaevik/ringipaevik-docs/tree/main)"Логотип Markdown")
+# ✅ Klass  {#klass}   ###	{[(⬅️**на главную**)]}   [⬅️ на главную](./README.md)
 
 
 
