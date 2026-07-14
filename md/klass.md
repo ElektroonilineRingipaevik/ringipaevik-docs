@@ -1,4 +1,4 @@
-# ✅ Klass  {#klass}   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "на главную")   
+# ✅ Klass  {#klass}   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [⬅️ на главную](../README.md "переход на главную страницу")   
 <!--img vertical-align="middle" width="22" height="22" src="https://img.icons8.com/office/40/arrow-pointing-left.png" alt="thick-arrow-pointing-up"/-->
 
 
